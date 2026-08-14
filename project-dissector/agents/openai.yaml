@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Dissector"
+  short_description: "Architecture walkthroughs for real repositories"
+  default_prompt: "Use $project-dissector to analyze this repository and write an architecture walkthrough."

@@ -15,6 +15,7 @@
 | Skill | Description | Status |
 |-------|-------------|--------|
 | [table-analysis](table-analysis/) | Self-improving table analysis agent. 16 built-in pandas operations, tiered memory, skill learning, multi-table parallel analysis. | Available |
+| [project-dissector](project-dissector/) | Deep architecture walkthroughs for unfamiliar codebases: core loop, data flow, key abstractions, extension points, and design tradeoffs. | Available |
 
 ## What Are Agent Skills?
 
